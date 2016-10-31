@@ -21,5 +21,6 @@ http://api.worldbank.org/countries/all/?format=json
 http://api.worldbank.org/countries/aw/indicators/IP.JRN.ARTC.SC?per_page=100&format=json
 
 
-This code is used to make use of disparate Open Data REST API’s and normalizing the data to create something new by using the datasets located at data.nasa.gov and beta.data.worldbank.org to find some interesting data patterns and 
-to analyze those datasets to gain insights on a few questions on NASA Meteorite Landings data.
+This code is used to make use of disparate Open Data REST API’s and normalizing the data
+to create something new by using the datasets located at data.nasa.gov and beta.data.worldbank.org to 
+find some interesting data patterns and to analyze those datasets to gain insights on a few questions on NASA Meteorite Landings data.
